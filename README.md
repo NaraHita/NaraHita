@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tara Nair</h1>
-<h3 align="center">A passionate embedded systems developer from India, living in HK</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A passionate embedded systems developer, plunging boldly into the world of technical writing — where lines of code give way to lines of clarity, and engineering challenges evolve into stories that empower and educate. </h3>
 
 - 🔭 I’m currently working on **Building my portfolio**
 
 - 🌱 I’m currently learning **JavaScript & HTML5**
 
 - 👯 I’m looking to collaborate on **Technical Documentation Writing**
-
-- 📫 How to reach me **narahita211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
